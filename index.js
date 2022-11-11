@@ -1,3 +1,3 @@
 
-let nome  = prompt("digite seu Nome Completo") 
+let nome  = prompt("Digite seu Nome Completo") 
 let sobrenome = prompt 
